@@ -16,6 +16,6 @@ Axios, matirial-UI e APi Marvel.
 - Foquei no objetivo de consumit apenas os Personagens da APi.
 -
 
-# Nota: Sou iniciante com o desenvolvimento em REactJs, apaixonado por desafios e solucionar problemas utilizando as tecnologias mais recente.
+# Nota: Sou iniciante com o desenvolvimento em ReactJs, apaixonado por desafios e solucionar problemas utilizando as tecnologias mais recente.
 
 
